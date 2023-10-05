@@ -1,7 +1,7 @@
 # Bitsearch-Api
 Bitsearch Torrent Api Python 2023
 
-Domain: [bitsearch.](https://bitsearch.to/)https://bitsearch.to/
+Domain: https://bitsearch.to/
 
 
 Api URL:  
